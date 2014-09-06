@@ -1,9 +1,9 @@
-name: 
+name: check_knuerr_rms
 description: "file:///README.md"
 url: "https://www.netways.org/projects/plugins"
 tags: ~
-vendor: Netways
-target: Temperature
+vendor: Knuerr,NETWAYS
+target: Sensor,Temperature,Environmental
 type: Plugin
 license: gplv2
 releases: 
